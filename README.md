@@ -12,7 +12,10 @@ This repository is the official implementation of **GenXD**.
 
 
 
-https://github.com/user-attachments/assets/baf0c177-3cc9-443b-b36e-5e740e39799a
+
+
+https://github.com/user-attachments/assets/a040d25d-718b-4869-8c5a-47f814f33255
+
 
 
 
