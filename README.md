@@ -2,12 +2,12 @@
 
 This repository is the official implementation of **GenXD**.
 
-**[GenXD: Generating Any 3D and 4D Scenes](https://arxiv.org/abs/2311.14603)**
+**[GenXD: Generating Any 3D and 4D Scenes](https://arxiv.org/abs/2411.02319)**
 <br/>
 [Yuyang Zhao](https://yuyangzhao.com), [Chung-Ching Lin](https://www.microsoft.com/en-us/research/people/chunglin/), [Kevin Lin](https://sites.google.com/site/kevinlin311tw/me), [Zhiwen Yan](https://jokeryan.github.io/about/), [Linjie Li](https://www.microsoft.com/en-us/research/people/linjli/), [Zhengyuan Yang](https://zyang-ur.github.io/), [Jianfeng Wang](https://jianfengwang.me/), [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/), [Lijuan Wang](https://www.microsoft.com/en-us/research/people/lijuanw/)
 <br/>
 
-[![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://gen-x-d.github.io/) [![arXiv](https://img.shields.io/badge/arXiv-2311.14603-b31b1b.svg)](https://arxiv.org/abs/2311.14603)
+[![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://gen-x-d.github.io/) [![arXiv](https://img.shields.io/badge/arXiv-2411.02319-b31b1b.svg)](https://arxiv.org/abs/2411.02319)
 
 
 
@@ -30,10 +30,10 @@ If you make use of our work, please cite our paper.
 @article{zhao2024genxd,
   author={Zhao, Yuyang and Lin, Chung-Ching and Lin, Kevin and Yan, Zhiwen and Li, Linjie and Yang, Zhengyuan and Wang, Jianfeng and Lee, Gim Hee and Wang, Lijuan},
   title={GenXD: Generating Any 3D and 4D Scenes},
-  journal={arXiv preprint arXiv:2311.14603},
+  journal={arXiv preprint arXiv:2411.02319},
   year={2024}
 }
 ```
 
 ## Acknowledgements
-This work is based on [pixelsplat](https://github.com/dcharatan/pixelsplat), [MVSplat](https://github.com/donydchen/mvsplat), [SVD Xtend](https://github.com/pixeli99/SVD_Xtend) and [Diffusion4D](https://github.com/VITA-Group/Diffusion4D). Thanks for open-sourcing! Furthermore, we would like to thank Dejia Xu and Yuyang Yin for their valuable discussions on the 4D data.
+This work is based on numerous outstanding research efforts and open-source contributions, including but not limited to [pixelsplat](https://github.com/dcharatan/pixelsplat), [MVSplat](https://github.com/donydchen/mvsplat), [SVD Xtend](https://github.com/pixeli99/SVD_Xtend), [ParticleSfM](https://github.com/bytedance/particle-sfm) and [Diffusion4D](https://github.com/VITA-Group/Diffusion4D). Furthermore, we would like to thank Dejia Xu and Yuyang Yin for their valuable discussions on the 4D data.
