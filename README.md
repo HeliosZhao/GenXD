@@ -6,12 +6,17 @@
 </div>
 
 <br>
-<div align="center">
+<!-- <div align="center">
   <video autoplay loop muted width="80%">
     <source src="https://gen-x-d.github.io/materials/figures/teaser.mp4" type="video/mp4">
   </video>
-</div>
+</div> -->
 
+<div align="center">
+  <video width="80%">
+    <source src="https://gen-x-d.github.io/materials/figures/teaser.mp4" type="video/mp4">
+  </video>
+</div>
 
 
 ## Abstract
