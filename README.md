@@ -6,17 +6,11 @@
 </div>
 
 <br>
-<!-- <div align="center">
-  <video autoplay loop muted width="80%">
-    <source src="https://gen-x-d.github.io/materials/figures/teaser.mp4" type="video/mp4">
-  </video>
-</div> -->
 
-<div align="center">
-  <video width="80%">
-    <source src="https://gen-x-d.github.io/materials/figures/teaser.mp4" type="video/mp4">
-  </video>
-</div>
+
+
+https://github.com/user-attachments/assets/4ba8b8cd-64cd-4c3d-ad68-eb1a475ca400
+
 
 
 ## Abstract
