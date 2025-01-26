@@ -1,4 +1,7 @@
 # <div align="center"> GenXD: Generating Any 3D and 4D Scenes <div> 
+<div align="center" style="color: #C70039; font-weight: bold; font-size: 24px;"> 
+  ICLR 2025
+</div>
 <div align="center">
   <a href="https://gen-x-d.github.io/"><img src="https://img.shields.io/static/v1?label=GenXD&message=Project&color=purple"></a> &ensp;
   <a href="https://arxiv.org/abs/2411.02319"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
@@ -18,6 +21,7 @@ https://github.com/user-attachments/assets/4ba8b8cd-64cd-4c3d-ad68-eb1a475ca400
 
 ## News
 - [01/12/2024] CamVid-30K dataset is released!
+- [24/01/2024] GenXD is accepted to ICLR 2025! We are polishing the code and will release it soon.
 
 
 ## TODO
