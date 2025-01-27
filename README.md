@@ -1,7 +1,5 @@
 # <div align="center"> GenXD: Generating Any 3D and 4D Scenes <div> 
-<div align="center" style="color: #C70039; font-weight: bold; font-size: 24px;"> 
-  ICLR 2025
-</div>
+### <div align="center"> ICLR 2025 <div>
 <div align="center">
   <a href="https://gen-x-d.github.io/"><img src="https://img.shields.io/static/v1?label=GenXD&message=Project&color=purple"></a> &ensp;
   <a href="https://arxiv.org/abs/2411.02319"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
