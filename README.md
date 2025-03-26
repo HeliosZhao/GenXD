@@ -29,6 +29,11 @@ https://github.com/user-attachments/assets/4ba8b8cd-64cd-4c3d-ad68-eb1a475ca400
 - [x] Release the pre-trained model.
 
 ## Installation
+We use `python>=3.10`, `torch==2.1.2` and `diffusers==0.30.3`. Please install torch first and then install the other packages.
+```
+pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu118
+pip install -r requirements.txt
+```
 
 ## Inference
 
