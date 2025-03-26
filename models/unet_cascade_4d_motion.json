@@ -1,0 +1,45 @@
+{
+    "_class_name": "UNetMVTemporalConditionModel",
+    "_diffusers_version": "0.24.0.dev0",
+    "_name_or_path": "unet",
+    "addition_time_embed_dim": 256,
+    "block_out_channels": [
+      320,
+      640,
+      1280,
+      1280
+    ],
+    "cross_attention_dim": null,
+    "camera_embedding_dim": -1,
+    "down_block_types": [
+      "CrossAttnDownBlockMVCascadeTemporal",
+      "CrossAttnDownBlockMVCascadeTemporal",
+      "CrossAttnDownBlockMVCascadeTemporal",
+      "DownBlockMVCascadeTemporal"
+    ],
+    "in_channels": 15,
+    "ray_condition": true,
+    "uncertainty_condition": false,
+    "camera_add_time": false,
+    "scale_add_time": false,
+    "motion_condition": true,
+    "layers_per_block": 2,
+    "num_attention_heads": [
+      5,
+      10,
+      20,
+      20
+    ],
+    "num_frames": 8,
+    "out_channels": 4,
+    "projection_class_embeddings_input_dim": 512, 
+    "sample_size": 96,
+    "transformer_layers_per_block": 1,
+    "up_block_types": [
+      "UpBlockMVCascadeTemporal",
+      "CrossAttnUpBlockMVCascadeTemporal",
+      "CrossAttnUpBlockMVCascadeTemporal",
+      "CrossAttnUpBlockMVCascadeTemporal"
+    ]
+  }
+  

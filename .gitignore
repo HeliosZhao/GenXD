@@ -166,7 +166,7 @@ cython_debug/
 /dataset_cache
 
 # Outputs
-/outputs*
+**/outputs*
 /lightning_logs
 /checkpoints
 
@@ -200,3 +200,6 @@ saves
 **/*.pt
 
 readme2.md
+genxd-model
+**/__pycache__
+**/data
