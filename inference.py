@@ -185,8 +185,7 @@ def main(cfg_dict: DictConfig):
     pipeline.set_progress_bar_config(disable=False)
 
     # run inference
-    val_save_dir = os.path.join(
-        args.output_dir, f"motion-{cfg.evaluator.motion_strength}-{cfg.evaluator.mode}-cfg{cfg.evaluator.guidance_scale}")
+    val_save_dir = args.output_dir
 
     # if not os.path.exists(val_save_dir):
     os.makedirs(val_save_dir, exist_ok=True)

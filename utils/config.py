@@ -137,7 +137,7 @@ class EvaluatorCfg:
     num_context_views: int = 1
     n_views: int = 3
     pipeline: str = "latent_cfg_zero"
-    motion_strength: float | int = 5.0
+    motion_strength: float | int = 0
     mode: str = "first"
     indicator: int = 0
     camera_trajectory: str | None = None
